@@ -8,16 +8,14 @@
 ---
 
 ## 🛠️ Tech I'm Learning
-- HTML  
-- CSS  
-- JavaScript  
-- Python  
+- 💻 Languages: C, C++, Java, Python  
+- 🌐 Web: HTML, CSS, JavaScript
 
 ---
 
 ## 📫 Connect with me
 - 📧 sonamintech@gmail.com  
-- 🔗 https://www.linkedin.com/in/sonam-kumari-173894397
+- 🔗 https://www.linkedin.com/in/sonamintech
 
 ---
 
